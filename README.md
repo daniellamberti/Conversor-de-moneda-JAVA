@@ -53,7 +53,7 @@ _<h1 align="center">Hi 👋, I'm Daniel</h1>
 <ul>
 <li>JAVA</li>
 <li>Intellij Idea IDE</li>
-<li>java.util: Httpcliente, HttpRequest, HttpResponse, Gson, Scanner, URI, IO Exception, Map </li>
+<li>java.util: Httpclient, HttpRequest, HttpResponse, Gson, Scanner, URI, IO Exception, Map </li>
 </ul>
 
 <hr>
@@ -61,7 +61,7 @@ _<h1 align="center">Hi 👋, I'm Daniel</h1>
 <p>Un agradecimiento especial a ALURA - LATAM y a ONE (Oracle Next Education) por los excelentes cursos que 
 estan brindando para miles de estudiantes, de toda latinoamérica y el mundo, que se estan formando como programadores.</p>
 <p>#AluraLatam</p>
-<p>oraclenexteducation!</p>
+<p>#oraclenexteducation!</p>
 
 </div>
 
