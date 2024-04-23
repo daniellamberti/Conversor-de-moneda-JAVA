@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniel</h1>
+_<h1 align="center">Hi 👋, I'm Daniel</h1>
 
 <h3 align="center">A fullstack student from Argentina</h3>
 <br>
@@ -10,7 +10,7 @@
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p ="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
   <timg src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
@@ -22,12 +22,12 @@
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" 
                   alt="react" width="40" height="40"/> </a> </p>
 <hr>
-
-<div align="center"><h2>Titulo: **CONVERSOR DE MONEDAS**</h2>
+<div>
+<h2>Titulo: **CONVERSOR DE MONEDAS**</h2>
 
 <h3>Descripción del proyecto:</h3>
 <p>Conversor de Monedas (USA, ARS, BRL, COP). La moneda referente es el USD y los valores actualizados se obtienen en forma dinamica desde la API 
-  <a href="https://www.exchangerate-api.com/" target="_blank">https://www.exchangerate-api.com/<a/></p>
+  <p href="https://www.exchangerate-api.com/" target="_blank">https://www.exchangerate-api.com/">https://www.exchangerate-api.com/<a/></p>
   <p>El proyecto se desarrolla en Terminal, sin interfaz gráfica (por el momento !)</p>
 
 <h3>Status: EN DESARROLLO</h3>
@@ -37,18 +37,31 @@
   El usuario ingresará el monto que desea convertir y luego se concretará la operación.</p>
 <p>Las opciones son 6: USD a ARS // ARS a USD // USD a BRL // BRL a USD // USD a COP // COP a USD</p>
 <p>Una vez realizada la conversión se indican en pantalla los valores correspondientes y se vuelve a presentar el MENU 
-  completo de las opciones para eventuales nuevas conversiones.
-  <P>La opcion de SALIDA es la número 7</p>
+  completo de las opciones para eventuales nuevas conversiones.</p>
+  <p>La opcion de SALIDA es la número 7</p>
   <br>
-  <p>Paso 1: Se presenta el MENU al usuario y selecciona el tipo de conversión deseada y la cantidad de dinero a convertir</p>
-![conversor_1](https://github.com/daniellamberti/Conversor-de-moneda-JAVA/assets/27353032/c3644368-f957-4b40-84db-288b27876729)
+<p>Paso 1: Se presenta el MENU al usuario y selecciona el tipo de conversión deseada y la cantidad de dinero a convertir.</p>
+<img src="conversor_1.png" alt="Primera foto explicativa sobre el uso del programa">
+<p>Paso 2: Se retorna la conversión solicitada y se vuelve a presentar el MENU para continuar con las opciones.</p>
+<img src="conversor_2.png" alt="Segunda foto explicativa sobre el uso del programa">
+<p>Paso 3: Cuando el usuario selecciona la opción 7 finaliza el programa.</p>
+<img src="conversor_3.png" alt="Tercera foto explicativa sobre el uso del programa">
+<br>
+<hr>
 
+<h3>Tecnologías utilizadas:</h3>
+<ul>
+<li>JAVA</li>
+<li>Intellij Idea IDE</li>
+<li>java.util: Httpcliente, HttpRequest, HttpResponse, Gson, Scanner, URI, IO Exception, Map </li>
+</ul>
 
-
-
-
-
-
+<hr>
+<h3>Colaboradores:</h3>
+<p>Un agradecimiento especial a ALURA - LATAM y a ONE (Oracle Next Education) por los excelentes cursos que 
+estan brindando para miles de estudiantes, de toda latinoamérica y el mundo, que se estan formando como programadores.</p>
+<p>#AluraLatam</p>
+<p>oraclenexteducation!</p>
 
 </div>
 
