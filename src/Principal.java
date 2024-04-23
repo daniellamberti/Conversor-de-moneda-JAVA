@@ -36,6 +36,7 @@ public class Principal {
         System.out.println();
         System.out.println("************************************");
         System.out.println();
+        System.out.println("Bienvenido/a al Conversor de Moneda");
         System.out.println();
         printMenu();
 
