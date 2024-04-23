@@ -2,7 +2,7 @@ _<h1 align="center">Hi 👋, I'm Daniel</h1>
 
 <h3 align="center">A fullstack student from Argentina</h3>
 <br>
-- 👨‍💻 All of my projects are available at [https://github.com/daniellamberti?tab=repositories](https://github.com/daniellamberti?tab=repositories)
+<p>All of my projects are available at <a href="https://github.com/daniellamberti?tab=repositories">https://github.com/daniellamberti?tab=repositories</a></p>
 
 <h3 align="left">Connect with me: <a href="mailto:daniellamberti@gmail.com">daniellamberti@gmail.com</a></h3>
 <p align="left">
@@ -27,7 +27,7 @@ _<h1 align="center">Hi 👋, I'm Daniel</h1>
 
 <h3>Descripción del proyecto:</h3>
 <p>Conversor de Monedas (USA, ARS, BRL, COP). La moneda referente es el USD y los valores actualizados se obtienen en forma dinamica desde la API 
-  <p href="https://www.exchangerate-api.com/" target="_blank">https://www.exchangerate-api.com/">https://www.exchangerate-api.com/<a/></p>
+  <a href="https://www.exchangerate-api.com/" target="_blank">https://www.exchangerate-api.com/<a/>
   <p>El proyecto se desarrolla en Terminal, sin interfaz gráfica (por el momento !)</p>
 
 <h3>Status: EN DESARROLLO</h3>
